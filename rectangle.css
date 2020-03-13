@@ -15,3 +15,9 @@ input label,span{
 span{
     color:red;
 }
+#width-validation-message,
+#height-validation-message{
+    margin-left:60px;
+    color:red;
+    font-size:0.8em;
+}
